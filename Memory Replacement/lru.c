@@ -43,13 +43,15 @@ int main()
         else if(count==nof)
         {
             int min=timestamp[0];
+            int k = 0;
             for(int j=1;j<nof;j++)
             {
-                if(timestamp[j]<min)
-                    min=timestamp[j];
+                if(timestamp[j]< min)
+                    {min= timestamp[j];
+                    k = j;}
             }
-            frames[min]=pages[i];
-            timestamp[min]=i;
+            frames[k]=pages[i];
+            timestamp[k]=i;
             fault++;
         }
         printf("%d\t",pages[i]);
