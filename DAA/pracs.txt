@@ -1,0 +1,35 @@
+Sorting Algos:
+    1. Insertion Sort 
+    2. Selection Sort 
+    3. Merge Sort 
+    4. Quick Sort 
+Kachra:
+    5. Binary Search 
+    6. MinMax 
+
+Greedy Method:
+    7. Prims
+    8. Kruskal
+    9. Djikstra
+
+Dynamic Programming:
+    10. Floyd Warshall
+    11. Activity Selection
+    12. Bellman Ford
+    13. Matrix Chain Multiplication
+    14. LCS (Longest Common Subsequence)
+    15. 0/1 Knapsack
+    16. Fractional Knapsack
+
+
+Backtracking:
+    17. N-Queen
+    18. Sum Of Subset
+    19. Graph Coloring
+
+String Matching:
+    20. Rabin Karp
+    21. Kruth Morris Pratt
+
+
+22. Strassen's Matrix Multiplication
